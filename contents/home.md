@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Yaodong](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/zyd98123)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am a PhD graduate from School of Electronic Information Engineering, Changchun University of Science and Technology, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zyd98123@mails.cust.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Changchun University of Science and Technology**, PhD in Information and Communication Engineering (2023 – 2026)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Changchun University of Science and Technology**, Master of Electronic Information (2021 – 2023)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Traffic Forecast, Graph Neural Network Prediction, Artificial Intelligence, Time series prediction.
