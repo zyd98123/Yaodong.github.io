@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 国家奖学金, 2025.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- ONational Scholarship, Changchun University of Science and Technolog, 2025. 
