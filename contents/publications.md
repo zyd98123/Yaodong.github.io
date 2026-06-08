@@ -8,4 +8,3 @@
 
 - Zhu, Yaodong, et al. "Dynamic Graph Construction and Continuous Spatiotemporal Evolution for Traffic Forecasting." Electronics 15.11 (2026): 2369.
 
-- 
