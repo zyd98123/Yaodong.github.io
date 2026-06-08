@@ -6,3 +6,6 @@
 
 - Liu, P., Zhu, Y., Yang, Y., Wang, C., & Jie, J. (2025). A Unified Diffusion Framework for Traffic Imputation and Prediction with Physical Priors. IEEE Transactions on Mobile Computing.
 
+- Zhu, Yaodong, et al. "Dynamic Graph Construction and Continuous Spatiotemporal Evolution for Traffic Forecasting." Electronics 15.11 (2026): 2369.
+
+- 
